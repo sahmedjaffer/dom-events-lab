@@ -51,7 +51,7 @@ function clearDisplay(){
   num1Element='',firstElement='',secondElement=''//, buttonClicked='';
   //displayElement.textContent=0;
   resElement.pop();
-  resElement.push(buttonClicked)
+  resElement.push(buttonClicked);
   num1Element = resElement['0'];
  }
 
